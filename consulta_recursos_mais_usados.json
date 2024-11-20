@@ -1,0 +1,14 @@
+[
+    {
+        "Descricao": "Compra de notebooks",
+        "Quantidade_Total": 15
+    },
+    {
+        "Descricao": "Compra de servidores",
+        "Quantidade_Total": 10
+    },
+    {
+        "Descricao": "Compra de equipamentos de rede",
+        "Quantidade_Total": 3
+    }
+]
